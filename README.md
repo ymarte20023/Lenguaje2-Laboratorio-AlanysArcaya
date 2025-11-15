@@ -1,5 +1,6 @@
 # Lenguaje2-Laboratorio-AlanysArcaya
-Profesor Alonzo Centeno - Fecha de creación 14/11/2025
+**Profesor:** Alonzo Centeno
+**Fecha de creación:** 14/11/2025
 **Estudiante:** Alanys Arcaya
 **Materia:** Lenguaje 2
 **Carrera:** Ingeneria de sistemas
