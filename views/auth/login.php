@@ -15,8 +15,8 @@
             <input type="email" id="email" name="email">
 
             <label>Contraseña</label>
-            <input type="password" id="pwd" name="pwd" required>
-            
+            <input type="password" id="pwd" name="pwd" required="Contraseña">
+            <!--Boton para inicio de seccion-->
             <button type="submit">Inicio de seccion</button>
         </form>
     </div>

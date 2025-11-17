@@ -18,12 +18,12 @@
             <input type="email" id="email" name="email">
 
             <label>Contraseña</label>
-            <input type="password" id="pwd" name="pwd" required>
+            <input type="password" id="pwd" name="pwd" required="Contraseña">
 
-            <label for="confirm_pwd">Confirmar:</label>
-            <input type="password" id="confirm_pwd" name="confirm_pwd" required>
-            <!--Boton para crear cuenta-->
-            <button type="submit">Crear cuenta</button>
+            <label for="confirm_pwd">Confirmar tu contraseña:</label>
+            <input type="password" id="confirm_pwd" name="confirm_pwd" required placeholder="Repita su contraseña">
+            <!--Boton para registrase-->
+            <button type="submit">Registrase</button>
         </form>
     </div>
 </body>
